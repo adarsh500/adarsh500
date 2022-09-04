@@ -1,7 +1,7 @@
 <h1 align="left">&ltHello There /&gt 👋</h1>
 
 
-<p align="left">My name is Adarsh and I'm a 2nd-year CS guy who is a passionate Frontend dev</p>
+<p align="left">My name is Adarsh and I'm a 3nd-year CS guy who is stoked about the web, mechanical keyboards, music and star wars✨</p>
 
 ###
 
