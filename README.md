@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">📚 I'm currently learning Typescript, Redux and backend development<br>💬 Ask me about Next, React, SASS or DSA<br>🎲 Fun fact: I'm crazy about Star Wars</p>
+<p align="left">📚 I'm currently learning Typescript, Redux and backend development<br>💬 Ask me about Next, React, SASS or DSA<br>🎲 Fun fact: I'm crazy about mechanical keyboards and Star Wars</p>
 
 ###
 
