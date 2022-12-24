@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=adarsh500" height="150" alt="languages graph"  /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=adarsh500" height="150" alt="languages graph"  /></div>
 
 ###
 
