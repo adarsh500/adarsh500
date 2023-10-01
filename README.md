@@ -1,4 +1,4 @@
-<h1 align="left">&ltHello There /&gt 👋</h1>
+<h1 align="left">Hello There 👋</h1>
 
 
 <p align="left">My name is Adarsh and I'm a final-year CS engineer who is stoked about the web, mechanical keyboards and star wars✨</p>
