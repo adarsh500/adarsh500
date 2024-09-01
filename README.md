@@ -1,42 +1,28 @@
 <h1 align="left">Hello There 👋</h1>
 
+<p align="left">I'm Adarsh, a frontend wizard that loves crafting rich and seamless experiences on the web</p>
 
-<p align="left">My name is Adarsh and I'm a final-year CS engineer who is stoked about the web, mechanical keyboards and star wars✨</p>
+I'm currently working as an SDE 1 at [CloudSEK](https://cloudsek.com), i've been building cool stuff here for over 2 years now
+Some of my biggest wins here include
+- Led a migration of our monolithic repo into a monorepo using [NX](https://nx.dev)
+- Introduced a custom server-driven UI architecture to build [platform integrations](https://www.cloudsek.com/integrations)
+- Built an in-house implementation of an advanced query builder. [Eg:-](https://react-querybuilder.js.org/)
 
-###
+Previously i used to work as a Frontend Intern at [Dukaan](https://mydukaan.io/) where i worked on their plugins and a custom theming engine
 
-<h2 align="left">About me</h2>
+I occasionally tinker and continuously iterate and experiment with my portfolio - [adarsh.fyi](https://adarsh.fyi)
 
+Here's a few technologies that i enjoy working with 
 
-<p align="left">📚 I'm currently learning Golang<br>💬 Ask me about Next, React, SASS or DSA<br>🎲 Fun fact: I'm crazy about mechanical keyboards and Star Wars</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwind logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  /></div>
-
-###
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=adarsh500" height="150" alt="languages graph"  /></div>
-
-###
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/), [SASS](https://sass-lang.com/)
+- Monorepos ([NX](https://nx.dev/), [Turborepo](https://turbo.build/repo/docs))
+- Bundlers ([webpack](https://webpack.js.org/), [rollup](https://rollupjs.org/), [vite](https://vitejs.dev/))
+- [Docker](https://www.docker.com/)
+- TypeScript, JavaScript
+- [Prisma](https://www.prisma.io/)
+- Databases ([PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/))
 
 <h3 align="left">Connect with me on</h3>
 
