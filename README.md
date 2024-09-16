@@ -3,8 +3,8 @@
 <p align="left">I'm Adarsh, a frontend wizard that loves crafting rich and seamless experiences on the web</p>
 
 I'm currently working as an SDE 1 at [CloudSEK](https://cloudsek.com), i've been building cool stuff here for over 2 years now
-Some of my biggest wins here include
-- Led a migration of our monolithic repo into a monorepo using [NX](https://nx.dev)
+Some of my biggest work here include
+- Worked on setting up a monorepo using [NX](https://nx.dev)
 - Introduced a custom server-driven UI architecture to build [platform integrations](https://www.cloudsek.com/integrations)
 - Built an in-house implementation of an advanced query builder. [Eg:-](https://react-querybuilder.js.org/)
 
